@@ -1,0 +1,108 @@
+{
+	"title": "All",
+	"order": 1,
+	"children": [
+		{
+			"title": "General",
+			"order": 1,
+			"urls": [
+				"yt://UCDsO-0Yo5zpJk575nKXgMVA",
+				"yt://UCAuUUnT6oDeKwE6v1NGQxug",
+				"yt://UCn8zNIfYAQNdrFRrr8oibKw",
+				"yt://UCfz1wXZiu6BRhlTphEANiHg",
+				"yt://UCwiIs5V6-zX8xaYgwhRhsHQ",
+				"yt://UC-yewGHQbNFpDrGM0diZOLA",
+				"yt://UCSMG40p6XHFTeXv5noF6Wdw",
+				"yt://UCUi4aspUAMcEG5ZEdnOrBQg",
+				"yt://UCgJjd8J5moTQSwnCIx4WSIw",
+				"yt://UCw3Th9YkzpXU0wxIIU0PORw"
+			],
+			"children": [
+				{
+					"title": "Fail",
+					"order": 1,
+					"urls": [
+						"yt://UCrko0z8vCHuuxAanqe8oI7A",
+						"yt://UCPDis9pjXuqyI7RYLJ-TTSA"
+					]
+				},
+				{
+					"title": "Pranks",
+					"order": 2,
+					"urls": [
+						"yt://UCxOGHW-aqciBe5Wjq8ltzOg",
+						"yt://UCzN_QwrNpAMWxVIjZKKSkPQ",
+						"yt://UCw9d_1flyEw4ATdkS4TBeWQ"
+					]
+				}
+			]
+		},
+		{
+			"title": "TechTalks",
+			"order": 2,
+			"urls": [
+				"yt://UC3s0BtrBJpwNDaflRSoiieQ",
+				"yt://UCNbqa_9xihC8yaV2o6dlsUg",
+				"yt://UCG4QMB95FR6Df6XdQwn8gSg",
+				"yt://UC4PBNDLlS4d75MP0xxcukGA",
+				"yt://UCf93fPKwotph47H3_KDcRyg",
+				"yt://UC2wNN-Zqiq4J1PLPnyMBWUg",
+				"yt://UCtXKDgv1AVoG88PLl8nGXmw",
+				"yt://UCiFhuK7AExmfhl8iUzw2g4w",
+				"yt://UCkQX1tChV7Z7l1LFF4L9j_g",
+				"yt://UCWUDCz-Q0m4qK7lkK4CevQA",
+				"yt://UC__NR52nzDsbmy2y0S13JIQ",
+				"yt://UCZDA1kA3y3EIg25BpcHSpwQ",
+				"yt://UChGDEluRG9r5kCecRAQTx_Q",
+				"yt://UCyQSz_PKP9LqqigzHio7UCQ",
+				"yt://UCbn1OgGei-DV7aSRo_HaAiw",
+				"yt://UCSwd_9jyX4YtDYm9p9MxQqw"
+			]
+		},
+		{
+			"title": "Games",
+			"order": 3,
+			"urls": [
+				"yt://UCxzC4EngIsMrPmbm6Nxvb-A",
+				"yt://UCt4-QGbiUuO9a5ketAuf3xg"
+			],
+			"children": [
+				{
+					"title": "Yogscast",
+					"order": 1,
+					"urls": [
+						"yt://UCH-_hzb2ILSCo9ftVSnrCIQ",
+						"yt://UCD4INvKvy83OXwAkRjaQKtw",
+						"yt://UCpu8dLHavjMi1a5jgT9ycMA"
+					]
+				},
+				{
+					"title": "Mindcrack",
+					"order": 2,
+					"urls": [
+						"yt://UCewxof_QqDdqVdXY1BaDtqQ",
+						"yt://UC4O9HKe9Jt5yAhKuNv3LXpQ",
+						"yt://UCOy5LOrYA5wVg5F_jAWtwfw",
+						"yt://UC8aG3LDTDwNR1UQhSn9uVrw"
+					]
+				}
+			]
+		},
+		{
+			"title": "Music",
+			"order": 4,
+			"urls": [
+				"yt://UCywgIB7Wd2woy5se8ReOpmw",
+				"yt://UC39s9_2QTMHPq4mRKtgEiUw",
+				"yt://UCU657kR_rnuiBmhlGOLBJRQ",
+				"yt://UCrf-FPxelLItGgHrp_pFTEQ",
+				"yt://UC2-KofSE7r_Mq81WzMMVDLg",
+				"yt://UCnMwDiRW7J1qFExufopgThw",
+				"yt://UC65afEgL62PGFWXY7n6CUbA",
+				"yt://UCi-bKESYc_sboCSqBjw43sg",
+				"yt://UC5Pc8WE4qfE-rDAQAoygQHQ",
+				"yt://UCfk_-UhsIS_iIKm-KYkpgQA"
+			]
+		}
+	]
+}

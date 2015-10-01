@@ -1,0 +1,36 @@
+{
+	"type":"object",
+	"definitions": {
+		"section":{
+			"type": "object",
+			"required": ["title","order"],
+			"additionalProperties": false,
+			"properties": {
+				"title": {
+					"type": "string",
+					"maxLength": 20
+				},
+				"order": {
+					"type": "integer",
+					"minimum": 1
+				},
+				"urls": {
+					"type": "array",
+					"uniqueItems": true,
+					"items": {
+						"type": "string",
+						"maxLength": 2000
+					}
+				},
+				"children": {
+					"type": "array",
+					"uniqueItems": true,
+					"items": {
+						"$ref": "#/definitions/section"
+					}
+				}
+			}
+		}
+	},
+	"$ref": "json-savestate/schema.json#/definitions/section"
+}
